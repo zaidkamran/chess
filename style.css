@@ -1,0 +1,42 @@
+body{
+    background-image: url(86.jpg);
+    opacity: 0.8;
+}
+.box{
+    
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    border: 1px solid orange;
+    display: inline-block;
+    margin: -2px;
+
+}
+.black{
+    background-color: black;
+
+    
+}
+.image{
+    top: 9%;
+    position: absolute;
+    bottom: 1%;
+    right:77%;
+    width: 25%;
+}
+.image1{
+    top: 5%;
+    position: absolute;
+    bottom: 1%;
+    left:77%;
+    width: 25%;
+}
+.image2{
+    position: absolute;
+    width: 50%;
+    height: 111%;
+    top: 5px;
+    bottom: 60px;
+    opacity: 0.3;
+    left: 449px;
+}
